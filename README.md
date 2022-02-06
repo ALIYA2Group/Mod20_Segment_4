@@ -1,60 +1,29 @@
 # Mod20_Segment_4
-The team task is to practice. Each of us will participate in the presentation over Zoom. Record it. Are there slow spots, or maybe a section that could use further clarity? This is also the segment where all loose ends that have been lingering are tied up (e.g., anything related to the machine learning model, dashboard, or even the analysis). Individual roles will have time dedicated to wrapping up tasks. The final README.md in the project repository will need to be tidied up and made portfolio-ready. All of the outstanding PRs are either completed and merged, or discarded and deleted. A final editorial sweep is necessary to make sure the code is clean and readable. The dashboard and presentation should be complete and ready for sharing, and a final check on overall quality is completed.
+# Final Presentation 
+![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpeg)
 
-#Purpose
-
-Fourth Segment: Put It All Together: Put the final touches on your model, database, and dashboard. Lastly, create and deliver your final presentation to your class.
-•	Team: Practice presenting your portion of the presentation. Tie up any loose ends related to the project (analysis, machine learning, dashboard, etc.).
-•	Square: Final updates to the README.md on the project repository (make sure there is a description of the project, explain why this topic was chosen, include images from the analysis, and the conclusion)—make the repository portfolio-ready.
-•	Circle: Ensure all applicable PRs are merged in (includes finishing up peer reviews and merging branches). Conduct final editorial review (clean up code to meet coding guidelines, check for typos, clarity, etc.).
-•	Triangle: Final touches on visual aspects with the presentation and dashboard. Make sure the images tell the story cleanly and clearly.
-•	X: Review the rubric and ensure the project meets the requirements, and test the code.
-
-# Presentation 
-Content
-The presentation tells a cohesive story about the project and includes the following:
-•	Selected topic
-•	Reason the topic is selected
+# Presentation (2 Minutes)
+Our selected topic is analyzing and forcasting scientific data on the Arctic Poles melting and shrinking ice over time due to seasonal variance and other features. 
+We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink. The source data was from the National Snow and Ice Data Center (NSIDC) and Climate Data Store.
 •	Description of the source of data
-•	Questions the team hopes to answer with the data
-•	Description of the data exploration phase of the project
+Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict future  size of the arctic sea ice extent.
+We explored the following features of data; 
+![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
+
+the data exploration phase of the project
 •	Description of the analysis phase of the project
 •	Technologies, languages, tools, and algorithms used throughout the project
 •	Result of the analysis
 •	Recommendation for future analysis
 •	Anything the team would have done differently
-Slides
-Presentations are finalized in Google Slides and should include:
-•	Slides are primarily images or graphics (rather than primarily text).
-•	Images are clear, in high-definition, and directly illustrative of subject matter.
-Live Presentation
-The team members deliver the presentation in equal proportions. The live presentation should include the following:
-•	Demonstrates the interactivity of the dashboard in real time
-•	Adheres to the time limits provided by instructor
-•	Includes speaker notes, flashcards, or a video of the presentation rehearsal
+
 
 # Github 
-Main Branch
-All code in the main branch is production-ready. All code is clean, commented, easy to read, and adheres to a coding standard (e.g., PEP8).
-The main branch should include:
-•	All code necessary to perform exploratory analysis
-•	All code necessary to complete machine learning portion of project
-•	Any images that have been created (at least three)
-•	Requirements.txt file
-README.md
-The README.md should include:
-•	Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
-•	Link to dashboard (or link to video of dashboard demonstration)
-•	Link to Google Slides presentation
-IMPORTANT
-The descriptions and explanations required in all other project deliverables should also be in your READme.md as part of your outline, unless otherwise noted.
-Individual Branches
-Requirements for the individual branches follow:
-•	At least one branch for each team member
-•	Each team member has at least four commits for the duration of the final segment (16 total commits per person)
-•	Link to Google Slides draft presentation
+#AliyaGroup2 
+## [AliyaGroup2 Github](https://github.com/ALIYA2Group)
 
-# Machine Learning Model
+
+# Machine Learning Model (2 Minutes)
 Students will be expected to submit the working code for their machine learning model, as well as the following:
 •	Description of data preprocessing
 •	Description of feature engineering and the feature selection, including the decision-making process
@@ -67,7 +36,7 @@ Additionally, the model obviously addresses the question or problem the team is 
 IMPORTANT
 If statistical analysis is not included as part of the current analysis, the team should describe how it would be included in the next phases of the project.
 
-# Database Integration 
+# Database Integration (2 Minutes)
 Students will be expected to present a final project with a fully integrated database.
 •	Database stores static data for use during the project
 •	Database interfaces with the project in some format (e.g., scraping updates the database)
@@ -77,11 +46,12 @@ Students will be expected to present a final project with a fully integrated dat
 IMPORTANT
 If you use a SQL database, you must provide your ERD with relationships.
 
-# Dashboard
-The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes all of the following:
-•	Images from the initial analysis
-•	Data (images or report) from the machine learning task
-•	At least one interactive element
-Either the dashboard is published or the submission includes a screen capture video of it in action.
+# Dashboard and Website
 
+[Final Preview](https://seaiceanalysis.appspot.com/)
 
+1. Using" beautiful soup" and "splinter" to scrap the news from idc website.
+2. We put the scraping script in the "Google app engine Cron task" and it will automatically do the scraping everyday.
+3. Store the data into MongoDB.
+4. Deploy the web page to "Google app engine".
+5. The website is using "Flask" and "pymongo" to show and read the data from MongoDB.
