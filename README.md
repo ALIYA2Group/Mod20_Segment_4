@@ -5,7 +5,7 @@
 The team members are Amber, Ayram, Leo, Leslie, deliver the presentation in 2 min equal proportions. The live presentation is scheduled for 7pm Friday, February 9th, 2022. 
 
 Includes the following:
-•	Demonstrates the interactivity of the dashboard in real time : Opens Website and activatives interative video and plays the video. 
+•	Demonstrates the interactivity of the dashboard in real time 
 •	Includes speaker notes within README.md
 
 # Presentation Speaker Notes (2 Minutes)
