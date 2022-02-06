@@ -1,16 +1,16 @@
 # Mod20_Segment_4
 # Final Presentation 
-![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpeg)
+![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
 
 # Presentation (2 Minutes)
-Our selected topic is analyzing and forcasting scientific data on the Arctic Poles melting and shrinking ice over time due to seasonal variance and other features. 
-We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink. The source data was from the National Snow and Ice Data Center (NSIDC) and Climate Data Store.
-•	Description of the source of data
-Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict future  size of the arctic sea ice extent.
-We explored the following features of data; 
-![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
+Our selected topic is analyzing and forcasting scientific data on the Arctic Poles melting and shrinking ice over time due to seasonal variance and other features. Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict future  size of the arctic sea ice extent.
+We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink. The source data was from the National Snow and Ice Data Center (NSIDC) and Climate Data Store. Source data was originally 15.5 Million rows. 
 
-the data exploration phase of the project
+We explored the following features of data as it pertains to melting sea ice and climate change; 
+![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.jpg)
+Seasonal Variance, Surface pressure,Total column ozone, Average atmospheric carbon dixide (XCO2), Average atmospheric carbon dioxide (CO2) sea ice extent (Artic), 2m temperature, Sea-ice cover, Snow albedo, Snowmelt.
+
+The big data exploration phase of the project included analysis of climate change features from live daily stalite and station montitoring data that ae cloud synced ensuring long-term monitoring is possible. 
 •	Description of the analysis phase of the project
 •	Technologies, languages, tools, and algorithms used throughout the project
 •	Result of the analysis
