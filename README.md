@@ -13,18 +13,11 @@ Includes the following:
 Our selected topic is analyzing and forcasting scientific data on the Arctic Poles melting and shrinking ice over time due to seasonal variance and other features. Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict future  size of the arctic sea ice extent.
 We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink. The source data was from the National Snow and Ice Data Center (NSIDC) and Climate Data Store. Source data was originally 15.5 Million rows. 
 
-We explored the following features of data as it pertains to melting sea ice and climate change; 
+We explored Seasonal Variance, Surface pressure,Total column ozone, Average atmospheric carbon dixide (XCO2), Average atmospheric carbon dioxide (CO2) sea ice extent (Artic), 2m temperature, Sea-ice cover, Snow albedo, Snowmelt. These were the selected features of data as it pertains to melting sea ice and climate change; 
 
 ![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
 
-Seasonal Variance, Surface pressure,Total column ozone, Average atmospheric carbon dixide (XCO2), Average atmospheric carbon dioxide (CO2) sea ice extent (Artic), 2m temperature, Sea-ice cover, Snow albedo, Snowmelt.
-
-The big data exploration phase of the project included analysis of climate change features from live daily stalite and station montitoring data that ae cloud synced ensuring long-term monitoring is possible. 
-•	Description of the analysis phase of the project
-•	Technologies, languages, tools, and algorithms used throughout the project
-•	Result of the analysis
-•	Recommendation for future analysis
-•	Anything the team would have done differently
+The big data exploration phase of the project included analysis of climate change features from live daily stalite and station montitoring data that ae cloud synced ensuring long-term monitoring is possible. We extracted data to analyze from National Snow & Ice Data Center (NSIDC) and Climate Data Store. Loaded into Cloud services that allowed for more scalability and performance. And used supervised Machine Learning Regression Models. Using the following Technologies, languages, tools, and algorithms.
 
 # Github 
 ## [AliyaGroup2 Github](https://github.com/ALIYA2Group)
@@ -33,10 +26,13 @@ The big data exploration phase of the project included analysis of climate chang
 ## [AliyaGroup2 Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
 
 # Final 
-## [Final Preview](https://seaiceanalysis.appspot.com/)
+## [AliyaGroup2 Final](https://seaiceanalysis.appspot.com/)
 
-# Machine Learning Model (2 Minutes)
+# Machine Learning Model Speaker Notes(2 Minutes)
 
+•	Result of the analysis
+•	Recommendation for future analysis
+•	Anything the team would have done differently
 Slides
 Presentations are finalized in Google Slides and should include:
 •	Slides are primarily images or graphics (rather than primarily text).
@@ -55,6 +51,10 @@ IMPORTANT
 If statistical analysis is not included as part of the current analysis, the team should describe how it would be included in the next phases of the project.
 
 # Database Integration Speaker Notes (2 Minutes)
+•	Result of the analysis
+•	Recommendation for future analysis
+•	Anything the team would have done differently
+
 Live Presentation
 The team members deliver the presentation in equal proportions. The live presentation should include the following:
 •	Demonstrates the interactivity of the dashboard in real time
@@ -70,7 +70,11 @@ Students will be expected to present a final project with a fully integrated dat
 IMPORTANT
 If you use a SQL database, you must provide your ERD with relationships.
 
-# Dashboard and Website (2 Minutes)
+# Dashboard and Website Speaker Notes(2 Minutes)
+•	Result of the analysis
+•	Recommendation for future analysis
+•	Anything the team would have done differently
+
 Live Presentation
 The team members deliver the presentation in equal proportions. The live presentation should include the following:
 •	Demonstrates the interactivity of the dashboard in real time
