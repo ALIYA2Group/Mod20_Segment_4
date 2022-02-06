@@ -30,23 +30,26 @@ The big data exploration phase of the project included analysis of climate chang
 
 # Machine Learning Model Speaker Notes(2 Minutes)
 
-•	Result of the analysis
-•	Recommendation for future analysis
-•	Anything the team would have done differently
+*	Result of the analysis
+*	Recommendation for future analysis
+*	Anything the team would have done differently
 Slides
 Presentations are finalized in Google Slides and should include:
-•	Slides are primarily images or graphics (rather than primarily text).
-•	Images are clear, in high-definition, and directly illustrative of subject matter.
+*	Slides are primarily images or graphics (rather than primarily text).
+*	Images are clear, in high-definition, and directly illustrative of subject matter.
 
-Students will be expected to submit the working code for their machine learning model, as well as the following:
-•	Description of data preprocessing
-•	Description of feature engineering and the feature selection, including the decision-making process
-•	Description of how data was split into training and testing sets
-•	Explanation of model choice, including limitations and benefits
-•	Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-•	Description of how the model was trained (or retrained, if the team is using an existing model)
-•	Description and explanation of model's confusion matrix, including final accuracy score
-Additionally, the model obviously addresses the question or problem the team is solving.
+Working code for machine learning model, as well as the following:
+*	Description of data preprocessing
+*	Description of feature engineering and the feature selection, including the decision-making process
+*	Description of how data was split into training and testing sets
+*	Explanation of model choice, including limitations and benefits
+*	Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+*	Description of how the model was trained (or retrained, if the team is using an existing model)
+*	Description and explanation of model's confusion matrix, including final accuracy score
+
+
+# Model addresses the question and problem the team is solving, which Yes, we can montitor melting, and we can forcast variables, but we can not extract an exact date. 
+
 IMPORTANT
 If statistical analysis is not included as part of the current analysis, the team should describe how it would be included in the next phases of the project.
 
