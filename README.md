@@ -32,7 +32,7 @@ The big data exploration phase of the project included analysis of climate chang
 # Google Slides
 ## [AliyaGroup2 Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
 
-#Final 
+# Final 
 ## [Final Preview](https://seaiceanalysis.appspot.com/)
 
 # Machine Learning Model (2 Minutes)
