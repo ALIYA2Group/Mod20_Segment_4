@@ -48,7 +48,7 @@ Students will be expected to present a final project with a fully integrated dat
 IMPORTANT
 If you use a SQL database, you must provide your ERD with relationships.
 
-# Dashboard and Website
+# Dashboard and Website (2 Minutes)
 
 [Final Preview](https://seaiceanalysis.appspot.com/)
 
