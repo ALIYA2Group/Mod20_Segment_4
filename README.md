@@ -21,8 +21,13 @@ The big data exploration phase of the project included analysis of climate chang
 
 
 # Github 
-#AliyaGroup2 
 ## [AliyaGroup2 Github](https://github.com/ALIYA2Group)
+
+# Google Slides
+## [AliyaGroup2 Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
+
+#Final 
+## [Final Preview](https://seaiceanalysis.appspot.com/)
 
 
 # Machine Learning Model (2 Minutes)
@@ -49,8 +54,6 @@ IMPORTANT
 If you use a SQL database, you must provide your ERD with relationships.
 
 # Dashboard and Website (2 Minutes)
-
-[Final Preview](https://seaiceanalysis.appspot.com/)
 
 1. Using" beautiful soup" and "splinter" to scrap the news from idc website.
 2. We put the scraping script in the "Google app engine Cron task" and it will automatically do the scraping everyday.
