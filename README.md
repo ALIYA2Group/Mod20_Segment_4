@@ -4,13 +4,19 @@
 
 #Team members 
 
-Leslie [LikedIN
+Leslie
+
 ![LD](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/LD.png)
+
 Ayram
 ![A](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/A.png)
+
 Amber
+
 ![AN](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/AN.png)
+
 Leo
+
 ![L](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/L.png)
 
 #Presentation 
