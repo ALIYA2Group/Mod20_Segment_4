@@ -9,15 +9,15 @@ Leslie
 ![LD](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/LD.png)
 
 Ayram
-![A](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/A.png)
+![A](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/A.PNG)
 
 Amber
 
-![AN](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/AN.png)
+![AN](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/AN.PNG)
 
 Leo
 
-![L](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/L.png)
+![L](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/L.PNG)
 
 #Presentation 
 
