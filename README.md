@@ -44,7 +44,7 @@ What we are monitoring are variables that fluctuate over time and specifically h
 Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting.  
 
 # Machine Learning Model Speaker Notes(2 Minutes)
-[Slides](<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
 
 # Database Integration Speaker Notes (2 Minutes)
 
