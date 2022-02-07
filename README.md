@@ -4,10 +4,14 @@
 
 #Team members 
 
-Leslie 
+Leslie [LikedIN
+![LD](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/LD.png)
 Ayram
+![A](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/A.png)
 Amber
+![AN](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/AN.png)
 Leo
+![L](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/L.png)
 
 #Presentation 
 
@@ -24,9 +28,14 @@ The live presentation is scheduled for 7 pm Friday, February 9th, 2022.
 ## [AliyaGroup2 Final](https://seaiceanalysis.appspot.com/)
 
 # Presentation (8 Minutes)
-Welcome to ALYAGroup 2 project overview on Climate Change and the Impact of Artic Sea Ice melting in the Northpole. This is as opposed to south pole where glaciers are melting as well, just not as fast as the Artic. Even if we significantly curb emissions in the coming decades, meaning your children, grandchildren, chiderns, generations of work, more than a third of the world’s remaining glaciers will melt before the year 2100 and its 2022. So that is 78 years from now. However, Scientists project that if emissions continue to rise unchecked, the Arctic could be ice free in the summer as soon as the year 2040 as ocean and air temperatures continue to rise rapidly.
+Welcome to ALYAGroup 2 project overview on Climate Change. This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
+The Artic is the northpole is melting faster than Antarctica in the southpole.
+We are taking action on climate change by creating a model that integrates with scientific data features thru API, and displays their importance and display their features interactively, and runs algorithms to predict a future value of those features values. 
+Do you want to know when this catastrophic event will happen? 
 
-When it comes to sea ice, 95% of the oldest and thickest ice in the Arctic is already gone. Today, the Arctic is warming twice as fast as anywhere on earth, and the sea ice there is declining by more than 10% every 10 years. As this ice melts, darker patches of ocean start to emerge, eliminating the effect that previously cooled the poles, creating warmer air temperatures and in turn disrupting normal patterns of ocean circulation. 
+Our scope is to extract, transform, and load big science data into cloud analytics, and use machine learning time-series model to forecast the future features datapoints.  
+What we are monitoring are variables that fluctuate over time and specifically has a moving average due to seasonality. 
+Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting.  
 
 # Machine Learning Model Speaker Notes(2 Minutes)
 
