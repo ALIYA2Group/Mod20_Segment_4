@@ -1,9 +1,8 @@
 
 # Final Presentation 
-
-![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.jpg)
-
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
+![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.PNG)
+![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
 
 # Team members 
 
