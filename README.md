@@ -19,7 +19,7 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 # Presentation (8 Minutes)
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 
-Welcome to our project overview on one aspect of Climate Change- Artic Sea Ice meltdown monitoring station. We are taking action on climate change by creating a prediction model that integrates with scientific data features thru API, and displays the real time Artic Sea Ice melt on our Website. The importance of our algorithms is to predict the furture values of the features that contribute to melting. 
+Welcome to our project overview on one aspect of Climate Change- Artic Sea Ice meltdown monitoring. We are taking action on climate change by creating a prediction model that integrates with scientific data features thru API, and displays the real time Artic Sea Ice melt on our Website. The importance of our algorithms is to predict the furture values of the features that contribute to melting. 
 Do you want to know when this catastrophic event will happen? This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
 
 Our scope is to extract, transform, and load, big science data into cloud analytics, and use machine learning time-series model to forecast the future datapoints.  
