@@ -19,7 +19,6 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 # Presentation (8 Minutes)
 
 Welcome to ALYAGroup 2 project overview on Climate Change. This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
-The Artic is the northpole is melting faster than Antarctica in the southpole.
 We are taking action on climate change by creating a model that integrates with scientific data features thru API, and displays their importance and display their features interactively, and runs algorithms to predict a future value of those features values. 
 Do you want to know when this catastrophic event will happen? 
 
@@ -45,6 +44,7 @@ Here you will receive daily Artic Sea ice Extent, and Sea Ice Concentration moni
 
 By ArcGis Living Atlas of the World team.
 This is an interactive tool that plays the event of melting in both Arctic Sea Ice and Antarctic Sea Ice over a period of time during a timelapse event to display melting.
+![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 
 
 
