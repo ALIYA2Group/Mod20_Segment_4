@@ -7,8 +7,8 @@
 ![P4](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P4.PNG)
 # Github Link for source Code [AliyaGroup2](https://github.com/ALIYA2Group)
 
-#Presentation 
-The live presentation is scheduled for 7 pm Friday, February 9th, 2022. 
+# Live Presentation 
+Scheduled for 7 pm [EST] Friday, February 9th, 2022. 
 
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 
