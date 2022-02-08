@@ -38,6 +38,15 @@ Our model was successful, and the future application is the flexibility to use t
 
 # Dashboard and Website Speaker Notes(2 Minutes)
 
+## Daily Image Update
+![P5](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P5.PNG)
+Here you will receive daily Artic Sea ice Extent, and Sea Ice Concentration monitoring over the Artic Sea Ice Extent in millions of square kilometers as a data visualization of Arctic polar sea ice.
+## Artic Sea Ice Awareness - Extent Monitoring Atlas
+![P6](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P6.PNG)
+
+By ArcGis Living Atlas of the World team.
+This is an interactive tool that plays the event of melting in both Arctic Sea Ice and Antarctic Sea Ice over a period of time during a timelapse event to display melting.
+
 
 
 ## Q&A:
