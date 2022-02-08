@@ -15,7 +15,6 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 # Final Project: [Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
 
 # Google Slides
-## [ALIYAGroup2] Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
 
 # Presentation (8 Minutes)
 
