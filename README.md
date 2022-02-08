@@ -5,20 +5,7 @@
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
 #Team members 
 
-Leslie
 
-![LD](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/LD.png)
-
-Ayram
-![A](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/A.PNG)
-
-Amber
-
-![AN](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/AN.PNG)
-
-Leo
-
-![L](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/L.PNG)
 
 #Presentation 
 
