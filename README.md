@@ -5,7 +5,6 @@
 
 # Team members 
 ![P4](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P4.PNG)
-# Source Code GitHub Link [ALIYAGroup2](https://github.com/ALIYA2Group)
 
 # Live Presentation 
 Scheduled for 7 pm [EST] Friday, February 9th, 2022. 
@@ -13,18 +12,18 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 
 # Final Project: [Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
+# Source Code GitHub Link [ALIYAGroup2](https://github.com/ALIYA2Group)
 
 # Google Slides
 
 # Presentation (8 Minutes)
+![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 
-Welcome to ALYAGroup 2 project overview on Climate Change. This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
-We are taking action on climate change by creating a model that integrates with scientific data features thru API, and displays their importance and display their features interactively, and runs algorithms to predict a future value of those features values. 
-Do you want to know when this catastrophic event will happen? 
+Welcome to our project overview on one aspect of Climate Change- Artic Sea Ice meltdown monitoring station. We are taking action on climate change by creating a prediction model that integrates with scientific data features thru API, and displays the real time Artic Sea Ice melt on our Website. The importance of our algorithms is to predict the furture values of the features that contribute to melting. 
+Do you want to know when this catastrophic event will happen? This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
 
-Our scope is to extract, transform, and load big science data into cloud analytics, and use machine learning time-series model to forecast the future features datapoints.  
-What we are monitoring are variables that fluctuate over time and specifically has a moving average due to seasonality. 
-Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting.  
+Our scope is to extract, transform, and load, big science data into cloud analytics, and use machine learning time-series model to forecast the future datapoints.  
+What we are monitoring are variables that fluctuate over time and specifically has a moving average due to seasonality. Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting.  
 
 # Machine Learning Model Speaker Notes(2 Minutes)
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
@@ -44,8 +43,6 @@ Here you will receive daily Artic Sea ice Extent, and Sea Ice Concentration moni
 
 By ArcGis Living Atlas of the World team.
 This is an interactive tool that plays the event of melting in both Arctic Sea Ice and Antarctic Sea Ice over a period of time during a timelapse event to display melting.
-![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
-
 
 
 ## Q&A:
