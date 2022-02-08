@@ -4,24 +4,21 @@
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.PNG)
 
 # Team members 
-
-
+![P4](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P4.PNG)
+# Github Link for source Code [AliyaGroup2](https://github.com/ALIYA2Group)
 
 #Presentation 
-
 The live presentation is scheduled for 7 pm Friday, February 9th, 2022. 
 
+![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 
-# Github 
-## [AliyaGroup2 Github](https://github.com/ALIYA2Group)
+# Final Project: [Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
 
 # Google Slides
 ## [AliyaGroup2 Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
 
-# Final 
-## [AliyaGroup2 Final](https://seaiceanalysis.appspot.com/)
-
 # Presentation (8 Minutes)
+
 Welcome to ALYAGroup 2 project overview on Climate Change. This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
 The Artic is the northpole is melting faster than Antarctica in the southpole.
 We are taking action on climate change by creating a model that integrates with scientific data features thru API, and displays their importance and display their features interactively, and runs algorithms to predict a future value of those features values. 
