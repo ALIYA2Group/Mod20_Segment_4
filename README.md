@@ -1,13 +1,24 @@
 
 # Final Presentation 
-![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
 
+![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
+![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
 #Team members 
 
+Leslie
+
+![LD](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/LD.png)
+
 Ayram
-Leslie 
+![A](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/A.PNG)
+
 Amber
+
+![AN](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/AN.PNG)
+
 Leo
+
+![L](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/TeamPhoto/L.PNG)
 
 #Presentation 
 
@@ -34,8 +45,11 @@ What we are monitoring are variables that fluctuate over time and specifically h
 Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting.  
 
 # Machine Learning Model Speaker Notes(2 Minutes)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
 
 # Database Integration Speaker Notes (2 Minutes)
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
+
 
 # Dashboard and Website Speaker Notes(2 Minutes)
 
@@ -45,7 +59,7 @@ Our model was successful, and the future application is the flexibility to use t
 
 # 1. Can you summarize the Project?  
 
-We created the foundation for the final project. By defining roles between team members and establishing a communication structure. We wanted to see if we could predict the melting of Artic Sea Ice. We create a repository for the project and invite the other team members. We made great strides in building the different pieces of the project. The analysis come along nicely, and we worked on the machine learning model, and the databases were transitioned into an operational, data-holding tool. All of the individual pieces we've been building come together. We assembled these pieces, putting the final touches on the repository. Working on the README.md to fully describe the project and its purpose. The repository would be ready to be added to your portfolio. The team?™s final task is to practice the presentation. Each of us will participate in the presentation over Zoom. Record it. There were slow spots, and sections to clarity. All loose ends that have been lingering were tied up especially anything related to the machine learning model, dashboard, or even the analysis. It was a short few weeks to perform ELT, MLT and Dashboard, and we were successful.  Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to  show the sea-ice diminishing from 2003-2020 to try and predict future  size of the arctic sea ice extent.
+We created the foundation for the final project. By defining roles between team members and establishing a communication structure. We wanted to see if we could predict the melting of Artic Sea Ice. We create a repository for the project and invite the other team members. We made great strides in building the different pieces of the project. The analysis come along nicely, and we worked on the machine learning model, and the databases were transitioned into an operational, data-holding tool. All of the individual pieces we've been building come together. We assembled these pieces, putting the final touches on the repository. Working on the README.md to fully describe the project and its purpose. The repository would be ready to be added to your portfolio. The team’s final task is to practice the presentation. Each of us will participate in the presentation over Zoom. Record it. There were slow spots, and sections to clarity. All loose ends that have been lingering were tied up especially anything related to the machine learning model, dashboard, or even the analysis. It was a short few weeks to perform ELT, MLT and Dashboard, and we were successful.  Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to  show the sea-ice diminishing from 2003-2020 to try and predict future  size of the arctic sea ice extent.
 
 # 2. Challenges 
 
