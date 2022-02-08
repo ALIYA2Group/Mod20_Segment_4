@@ -2,7 +2,6 @@
 # Final Presentation 
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.PNG)
-![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
 
 # Team members 
 
@@ -37,6 +36,7 @@ Our model was successful, and the future application is the flexibility to use t
 
 # Database Integration Speaker Notes (2 Minutes)
 [Slide](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
+![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
 
 
 # Dashboard and Website Speaker Notes(2 Minutes)
