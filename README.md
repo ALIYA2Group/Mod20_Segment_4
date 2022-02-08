@@ -22,8 +22,7 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 Welcome to our project overview on one aspect of Climate Change- Artic Sea Ice meltdown monitoring. We are taking action on climate change by creating a prediction model that integrates with scientific data features thru API, and displays the real time Artic Sea Ice melt on our Website. The importance of our algorithms is to predict the furture values of the features that contribute to melting. 
 Do you want to know when this catastrophic event will happen? This Project takes scientific data features as it pertains to melting of Artic Sea Ice. 
 
-Our scope is to extract, transform, and load, big science data into cloud analytics, and use machine learning time-series model to forecast the future datapoints.  
-What we are monitoring are variables that fluctuate over time and specifically has a moving average due to seasonality. Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting.  
+Our scope is to extract, transform, and load, big science data into cloud analytics, and use machine learning time-series model to forecast the future datapoints.What we are monitoring are variables that fluctuate over time and specifically has a moving average due to seasonality. Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting or any seasonal pattern predictions as it pertain to climate change.  
 
 # Machine Learning Model Speaker Notes(2 Minutes)
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
