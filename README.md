@@ -16,7 +16,7 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 
 # Google Slides
 
-# Presentation (8 Minutes)
+# Presentation 
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 
 Welcome to our project overview on one aspect of Climate Change- Artic Sea Ice meltdown monitoring. We are taking action on climate change by creating a prediction model that integrates with scientific data features thru API, and displays the real time Artic Sea Ice melt on our Website. The importance of our algorithms is to predict the furture values of the features that contribute to melting. 
@@ -34,12 +34,6 @@ Our scope is to extract, transform, and load, big science data into cloud analyt
 # Dashboard and Website
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
 
-## Daily Image Update
-![P5](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P5.PNG)
-Here you will receive daily Artic Sea ice Extent, and Sea Ice Concentration monitoring over the Artic Sea Ice Extent in millions of square kilometers as a data visualization of Arctic polar sea ice.
-
-## Artic Sea Ice Awareness - Extent Monitoring Atlas
-![P6](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P6.PNG)
 
 By ArcGis Living Atlas of the World team.
 This is an interactive tool that plays the event of melting in both Arctic Sea Ice and Antarctic Sea Ice over a period of time during a timelapse event to display melting.
