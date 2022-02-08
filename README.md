@@ -47,6 +47,8 @@ Our model was successful, and the future application is the flexibility to use t
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
 
 # Database Integration Speaker Notes (2 Minutes)
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
+
 
 # Dashboard and Website Speaker Notes(2 Minutes)
 
