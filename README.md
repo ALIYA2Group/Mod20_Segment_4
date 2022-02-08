@@ -24,15 +24,14 @@ Do you want to know when this catastrophic event will happen? This Project takes
 
 Our scope is to extract, transform, and load, big science data into cloud analytics, and use machine learning time-series model to forecast the future datapoints.What we are monitoring are variables that fluctuate over time and specifically has a moving average due to seasonality. Our model was successful, and the future application is the flexibility to use this model on any features as desired as it pertains to the average sea ice extent melting or any seasonal pattern predictions as it pertain to climate change.  
 
-# Machine Learning Model Speaker Notes(2 Minutes)
+# Machine Learning Model 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
 
-# Database Integration Speaker Notes (2 Minutes)
+# Database Integration 
 [Slide](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
 ![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
 
-
-# Dashboard and Website Speaker Notes(2 Minutes)
+# Dashboard and Website
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
 
 ## Daily Image Update
