@@ -33,10 +33,12 @@ Our scope is to extract, transform, and load, big science data into cloud analyt
 
 
 # Dashboard and Website Speaker Notes(2 Minutes)
-![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8).PNG
+![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
+
 ## Daily Image Update
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P5.PNG)
 Here you will receive daily Artic Sea ice Extent, and Sea Ice Concentration monitoring over the Artic Sea Ice Extent in millions of square kilometers as a data visualization of Arctic polar sea ice.
+
 ## Artic Sea Ice Awareness - Extent Monitoring Atlas
 ![P6](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P6.PNG)
 
