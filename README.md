@@ -95,8 +95,7 @@ Data was split into training and testing sets using a 70-30 ratio and using the 
 
 ## Description of how we have trained the model thus far, and any additional training that will take place
 ![R3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3.PNG)
-![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
-![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
+
 
 The model was trained using SARIMAX. After splitting the data into training and testing sets:
 
@@ -124,6 +123,7 @@ We resulted in a very good accuracy score.
 
 ![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
 
+
 ## Future Prediction:
 
 We successfully completed prediction model to predict the features of the Artic Sea Ice melt:
@@ -134,8 +134,8 @@ We successfully completed prediction model to predict the features of the Artic 
 
 2) using the predicted values of the features, we used the model to predict the values of Y (Extent):
 
-![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10c.PNG)
-
+![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
+![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
 ## Explanation of model choice, including limitations and benefits
 
 Given the nature of the data and the question we are trying to answer, we used a Timer-Series prediction model SARIMAX (Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors). It helps to predict future values using auto-regression and moving average along with adding in the seasonality factor. 
@@ -156,6 +156,8 @@ There were a number of different models tried and tested, which were the changes
 
 # Dashboard and Website
 * Load
+The website is based on python-flask backend and runs on Google App Engine. Our written code used beautiful soup to scrape the news contents from the Ice Data Center scheduled everyday and then store the data into our MongoDB for website loading.
+
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
