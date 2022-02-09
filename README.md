@@ -13,13 +13,13 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 
 # Final Project Website: 
 
-##[Website Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
+## [Website Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
 
 # GitHub
-##[Final Project Code](https://github.com/ALIYA2Group/Mod20_Segment_3)
+## [Final Project Code](https://github.com/ALIYA2Group/Mod20_Segment_3)
 
 # Google Slides
-##[Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
+## [Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
 
 # Presentation 
 ![R1a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1a.PNG)
