@@ -155,12 +155,21 @@ There were a number of different models tried and tested, which were the changes
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
 
 # Dashboard and Website
-* Load
-The website is based on python-flask backend and runs on Google App Engine. Our written code used beautiful soup to scrape the news contents from the Ice Data Center scheduled everyday and then store the data into our MongoDB for website loading.
+
+The website is loaded on python-flask backend and runs on Google App Engine. Our written code used beautiful soup to scrape the news contents from the Ice Data Center scheduled everyday and then store the data into our MongoDB for website loading.
 
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
+
+The daily updated sea ice extent images and sea ice news is scraped from National Snow & Ice Data Center.
+
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
+
+The Data analysis we divided our work into six sections.
+
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
+
+The contents are loaded from MongoDB. Here is our live data, you can see how we store the data in the hierarchical database. 
+
 ![P10](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P10.PNG)
 
 # Project Summary 
