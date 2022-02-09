@@ -123,6 +123,7 @@ We resulted in a very good accuracy score.
 
 ![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
 
+![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
 
 ## Future Prediction:
 
@@ -134,7 +135,6 @@ We successfully completed prediction model to predict the features of the Artic 
 
 2) using the predicted values of the features, we used the model to predict the values of Y (Extent):
 
-![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
 ![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
 ## Explanation of model choice, including limitations and benefits
 
