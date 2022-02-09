@@ -56,8 +56,8 @@ We reviewed data from the following resources and identified the most useful fea
 
 Through data exploration, we determined that we wanted to use Arctic data only as it is melting faster than Antarctic. 
 
-![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 
+![R1b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1b.PNG)
 ![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
 
 ## Description of the analysis phase of the project and data processing
@@ -71,7 +71,6 @@ We had to understand the significance of the science behind the data, to underst
 * Technologies, languages, tools, and algorithms used throughout the project
 ![R1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1.PNG)
 
-![R1b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1b.PNG)
 ![R1c](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1c.PNG)
 ![R1d](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1d.PNG)
 ![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
