@@ -95,8 +95,7 @@ Data was split into training and testing sets using a 70-30 ratio and using the 
 
 ## Description of how we have trained the model thus far, and any additional training that will take place
 ![R3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3.PNG)
-![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
-![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
+
 
 The model was trained using SARIMAX. After splitting the data into training and testing sets:
 
@@ -124,6 +123,7 @@ We resulted in a very good accuracy score.
 
 ![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
 
+
 ## Future Prediction:
 
 We successfully completed prediction model to predict the features of the Artic Sea Ice melt:
@@ -134,8 +134,8 @@ We successfully completed prediction model to predict the features of the Artic 
 
 2) using the predicted values of the features, we used the model to predict the values of Y (Extent):
 
-![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10c.PNG)
-
+![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
+![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
 ## Explanation of model choice, including limitations and benefits
 
 Given the nature of the data and the question we are trying to answer, we used a Timer-Series prediction model SARIMAX (Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors). It helps to predict future values using auto-regression and moving average along with adding in the seasonality factor. 
@@ -155,12 +155,14 @@ There were a number of different models tried and tested, which were the changes
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
 
 # Dashboard and Website
+* Load
+The website is based on python-flask backend and runs on Google App Engine. Our written code used beautiful soup to scrape the news contents from the Ice Data Center scheduled everyday and then store the data into our MongoDB for website loading.
 
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 ![P10](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P10.PNG)
 
-Project Summary 
+# Project Summary 
 
 We created the foundation for the final project. By defining roles between team members and establishing a communication structure. We wanted to see if we could predict the melting of Artic Sea Ice. We created a repository for the project and invited the other team members. We made great strides in building the different pieces of the project. The analysis come along nicely, and we worked on the machine learning model, and the databases were transitioned into an operational, data-holding tool. All of the individual pieces we've been building came together. We assembled these pieces, putting the final touches on the repository. Working on the README.md to fully describe the project and its purpose. The repository is ready to be added to our portfolio. The team’s final task is to practice the presentation. Each of us will participate in the presentation over Zoom. All loose ends that have been lingering were tied up especially anything related to the machine learning model, dashboard, or even the analysis. It was a short few weeks to perform ELT, MLT and Website, and we were successful. Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict future size of the arctic sea ice extent.
