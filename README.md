@@ -69,18 +69,13 @@ We had to understand the significance of the science behind the data, to underst
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
 * Technologies, languages, tools, and algorithms used throughout the project
-
-![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.jpg)
-![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
-![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
 ![R1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1.PNG)
+
 ![R1b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1b.PNG)
 ![R1c](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1c.PNG)
 ![R1d](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1d.PNG)
-
+![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
 # [Machine Learning Model](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
-
-# Machine Learning Model
 
 Data pre-processing included importing the dataset using SQLAlchemy from AWS, dropping unwanted columns and setting the date as index.  
 
