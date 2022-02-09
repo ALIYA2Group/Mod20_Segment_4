@@ -155,12 +155,12 @@ There were a number of different models tried and tested, which were the changes
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
 
 # Dashboard and Website
-
+* Load
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 ![P10](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P10.PNG)
 
-Project Summary 
+# Project Summary 
 
 We created the foundation for the final project. By defining roles between team members and establishing a communication structure. We wanted to see if we could predict the melting of Artic Sea Ice. We created a repository for the project and invited the other team members. We made great strides in building the different pieces of the project. The analysis come along nicely, and we worked on the machine learning model, and the databases were transitioned into an operational, data-holding tool. All of the individual pieces we've been building came together. We assembled these pieces, putting the final touches on the repository. Working on the README.md to fully describe the project and its purpose. The repository is ready to be added to our portfolio. The team’s final task is to practice the presentation. Each of us will participate in the presentation over Zoom. All loose ends that have been lingering were tied up especially anything related to the machine learning model, dashboard, or even the analysis. It was a short few weeks to perform ELT, MLT and Website, and we were successful. Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict future size of the arctic sea ice extent.
