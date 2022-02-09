@@ -32,7 +32,7 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 # Google Slides
 ## [Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
 
-# Presentation 
+# Project Overview
 ![R1a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1a.PNG)
 
 # [Database Integration](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
