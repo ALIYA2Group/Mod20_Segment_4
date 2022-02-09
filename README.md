@@ -88,6 +88,9 @@ Data was split into training and testing sets using a 70-30 ratio and using the 
 ![traintest](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/traintest.PNG)
 
 ## Description of how we have trained the model thus far, and any additional training that will take place
+![R3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3.PNG)
+![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
+![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
 
 The model was trained using SARIMAX. After splitting the data into training and testing sets:
 
@@ -144,10 +147,6 @@ There were a number of different models tried and tested, which were the changes
 
 2. Method Time-series forecasting using tensor flow, including convolutional and recurrent neural networks (CNN and RNN)
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
-
-![R3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3.PNG)
-![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
-![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
 
 # Dashboard and Website
 
