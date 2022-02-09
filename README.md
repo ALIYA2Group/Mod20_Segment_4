@@ -11,15 +11,18 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 
-# Final Project: [Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
-# [Source Code GitHub Link](https://github.com/ALIYA2Group/Mod20_Segment_3)
+# Final Project Website: 
+
+##[Website Climate Change - Sea Ice Analysis](https://seaiceanalysis.appspot.com/)
+
+# GitHub
+##[Final Project Code](https://github.com/ALIYA2Group/Mod20_Segment_3)
 
 # Google Slides
-[Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
+##[Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
 
 # Presentation 
 ![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
-
 
 # Machine Learning Model 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
@@ -30,10 +33,6 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 
 # Dashboard and Website
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
-
-
-By ArcGis Living Atlas of the World team.
-This is an interactive tool that plays the event of melting in both Arctic Sea Ice and Antarctic Sea Ice over a period of time during a timelapse event to display melting.
 
 
 ## Q&A:
