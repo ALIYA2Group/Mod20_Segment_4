@@ -22,18 +22,23 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 ##[Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
 
 # Presentation 
-![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
+![R1a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1a.PNG)
 
-# Machine Learning Model 
-[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
+# [Database Integration](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
+![R1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1.PNG)
+![R1b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1b.PNG)
+![R1c](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1c.PNG)
+![R1d](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1d.PNG)
 
-# Database Integration 
-[Slide](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
-![P2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P2.PNG)
+# [Machine Learning Model](https://docs.google.com/presentation/d/e/2PACX-1vTU8nhBTVIz_KSLN01zzD6-fK-YunX4blsvz-DwjapgQqs_POwJLEJBWkzrEW5h-C8shGaCReSjNGKS/embed?start=false&loop=false&delayms=15000)
+![R3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3.PNG)
+![R3a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3a.PNG)
+![R3b](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R3b.PNG)
 
 # Dashboard and Website
+![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
 ![P8](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P8.PNG)
-
+![P7](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P7.PNG)
 
 ## Q&A:
 
