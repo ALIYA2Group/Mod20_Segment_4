@@ -2,7 +2,6 @@
 # Final Presentation 
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.jpg)
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P1.PNG)
-## [Link to Topic Segment Details](https://github.com/ALIYA2Group)
 
 ## Selected topic
 
@@ -28,6 +27,9 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 
 # GitHub
 ## [Final Project Code](https://github.com/ALIYA2Group/Mod20_Segment_3)
+
+###[All Segment Details](https://github.com/ALIYA2Group)
+
 *Commits per Segment
 
 1. [Segment 1 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_1/branches)
@@ -42,7 +44,6 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 ![R1a](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/R1a.PNG)
 
 # [Database Integration](https://docs.google.com/presentation/d/e/2PACX-1vQ0AFT1H9r4fMRmOl4hKVJDNR87-qmHnjaFkaO2_cpQg13ukkOF0McZ7dscFhhqL2cclg_jVvtWTJui/pub?start=false&loop=false&delayms=3000)
-
 
 ## Description of the source of data
 
@@ -99,7 +100,7 @@ Data was split into training and testing sets using a 70-30 ratio and using the 
 
 The model was trained using SARIMAX. After splitting the data into training and testing sets:
 
-1-	 Decomposed Time Series into several components-Trend, Seasonality, and Random noise
+1- Decomposed Time Series into several components-Trend, Seasonality, and Random noise
 
 ![seasonal](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/seasonal.png)
 
@@ -156,6 +157,8 @@ There were a number of different models tried and tested, which were the changes
 
 # Dashboard and Website
 
+* Load
+ 
 The website is loaded on python-flask backend and runs on Google App Engine. Our written code used beautiful soup to scrape the news contents from the Ice Data Center scheduled everyday and then store the data into our MongoDB for website loading.
 
 ![P3](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/P3.PNG)
