@@ -30,13 +30,6 @@ Scheduled for 7 pm [EST] Friday, February 9th, 2022.
 
 ### [All Segment Details](https://github.com/ALIYA2Group)
 
-*Commits per Segment
-
-1. [Segment 1 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_1/branches)
-2. [Segment 2 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_2/branches)
-3. [Segment 3 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_3/branches)
-3. [Segment 4 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_4/branches)
-
 # Google Slides
 ## [Final Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vSV1HhjFlP5gsKDUrtnJqH_iSvr25CP9ZKv9FZbFnaLSPuN6MnA0RDPXdZExbLX_hYIrHlh_7Tc9dz5/pub?start=false&loop=false&delayms=3000)
 
@@ -102,13 +95,13 @@ The model was trained using SARIMAX. After splitting the data into training and 
 
 1- Decomposed Time Series into several components-Trend, Seasonality, and Random noise
 
-![seasonal](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/seasonal.png)
+![X1](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/X1.JPG)
 
 2- Checked for Data Stationarity using Augmented Dickey-Fuller(ADF) test. If we make the data stationary, then the model can make predictions based on the fact that mean and variance will remain the same in the future. A stationarized series is easier to predict. For data points that were not stationary, data was differenced to make it stationary. 
 
 3- An ACF and PACF bar chart was plotted. ACF is a plot of the coefficients of correlation between a time series and its lag and helps determine the value of p or the AR term while PACF is a plot of the partial correlation coefficients between the series and lags of itself and helps determine the value of q or the MA term. Both p and q are required input parameters for the SARIMAX Model. 
 
-![ACF](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/ACF.png)
+![X2](https://github.com/ALIYA2Group/Mod20_Segment_4/blob/main/Pictures/X2.JPG)
 
 3- Ran the SARIMAX model to forecast the extent based on the order obtained using ARIMA  model and using the traing set as the exogenous variables
 
